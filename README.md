@@ -1,1 +1,1 @@
-# Lab-6-DSA
+# Lab-5-DSA
